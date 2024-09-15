@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kraywisal.github.io/sitemap.html.gz
+Sitemap: https://kraywisal.github.io/app/sitemap.html.gz
+Sitemap: https://kraywisal.github.io/assets/sitemap.html.gz
+Sitemap: https://kraywisal.github.io/css/sitemap.html.gz
+Sitemap: https://kraywisal.github.io/includes/sitemap.html.gz
+Sitemap: https://kraywisal.github.io/item/sitemap.html.gz
+Sitemap: https://kraywisal.github.io/src/sitemap.html.gz
